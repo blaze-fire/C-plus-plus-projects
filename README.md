@@ -1,3 +1,3 @@
-# Splitwise App
+# Cash_Flow - A TRANSACTION SOLVER
 
-A C++ program to minimise cash Flow among a given set of friends who have borrowed money from each other.
+This project generates transactions between a group of 2 - 9 persons and then simplifies their transactions to minimize the cash flow using greedy approach.
